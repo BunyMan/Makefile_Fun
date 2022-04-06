@@ -3,3 +3,16 @@ Please be aware that the sounds in the includes folder are being played through 
 Although these are fairly useless and I would strongly advise against using them in any serious work, it's always fun to have a little easter egg somewhere.
 Have fun ;)
 
+Current Makefile includes:
+
+	Loading bar animation;
+
+	Cleaning animation;
+
+	Parrot.live;
+
+	Pickle Rick;
+
+	Lightning McQueen (says KACHOW ⚡️)
+
+	GitHub (plays a sound most of us are familiar with)
