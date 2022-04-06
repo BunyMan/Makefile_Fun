@@ -13,6 +13,6 @@ Current Makefile includes:
 
 	Pickle Rick;
 
-	Lightning McQueen (says KACHOW ⚡️)
+	Lightning McQueen (says KACHOW ⚡️);
 
-	GitHub (plays a sound most of us are familiar with)
+	GitHub (plays a sound most of us are familiar with);
