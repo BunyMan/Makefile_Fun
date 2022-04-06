@@ -6,7 +6,7 @@
 #    By: jbuny-fe <jbuny-fe@student.42lisboa.com>   +#+  +:+       +#+         #
 #                                                 +#+#+#+#+#+   +#+            #
 #    Created: 2022/04/06 14:45:44 by jbuny-fe          #+#    #+#              #
-#    Updated: 2022/04/06 15:53:26 by jbuny-fe         ###   ########.fr        #
+#    Updated: 2022/04/06 19:02:59 by jbuny-fe         ###   ########.fr        #
 #                                                                              #
 # **************************************************************************** #
 
@@ -222,3 +222,4 @@ sega:
 		@afplay includes/sega.mp3
 
 
+animations:	loading fclean rick katchow git sega
