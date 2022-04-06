@@ -16,3 +16,5 @@ Current Makefile includes:
 	Lightning McQueen (says KACHOW ⚡️);
 
 	GitHub (plays a sound most of us are familiar with);
+
+	SEGA (Plays the sega intro sound);
