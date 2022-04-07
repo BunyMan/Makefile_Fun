@@ -6,7 +6,7 @@
 #    By: jbuny-fe <jbuny-fe@student.42lisboa.com>   +#+  +:+       +#+         #
 #                                                 +#+#+#+#+#+   +#+            #
 #    Created: 2022/04/06 14:45:44 by jbuny-fe          #+#    #+#              #
-#    Updated: 2022/04/07 05:58:52 by jbuny-fe         ###   ########.fr        #
+#    Updated: 2022/04/07 07:57:34 by jbuny-fe         ###   ########.fr        #
 #                                                                              #
 # **************************************************************************** #
 
@@ -256,6 +256,8 @@ windows:
                                            $(WY) YPPPGGBB######&&&&######5                               \n\
                                             $(WY) .^?5GB######&&&&###BPY7:                               \n\
                                                 $(WY)  .^!?JYYYYJ7!^:.      \n"
+
+		@afplay includes/windows.mp3
 
 
 animations:	rick katchow git sega

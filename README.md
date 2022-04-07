@@ -18,3 +18,5 @@ Current Makefile includes:
 	GitHub (plays a sound most of us are familiar with);
 
 	SEGA (Plays the sega intro sound);
+
+	windows (Old logo and sound)
