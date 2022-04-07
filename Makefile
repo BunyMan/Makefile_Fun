@@ -6,7 +6,7 @@
 #    By: jbuny-fe <jbuny-fe@student.42lisboa.com>   +#+  +:+       +#+         #
 #                                                 +#+#+#+#+#+   +#+            #
 #    Created: 2022/04/06 14:45:44 by jbuny-fe          #+#    #+#              #
-#    Updated: 2022/04/06 19:02:59 by jbuny-fe         ###   ########.fr        #
+#    Updated: 2022/04/07 05:58:52 by jbuny-fe         ###   ########.fr        #
 #                                                                              #
 # **************************************************************************** #
 
@@ -16,6 +16,10 @@ G			=	\033[0;32m
 Y			=	\033[0;33m
 R			=	\033[0;31m
 O			=   	\033[38;5;214m
+WO			=	\033[38;5;202m 
+WG			=	\033[38;5;034m
+WB			=	\033[38;5;026m
+WY			=	\033[38;5;220m 
 RESET      	 	=   	\033[0m
 
 
@@ -153,6 +157,8 @@ rick:
         ██▒▒░░░░░░░░░░░░░░▒▒▒▒▒▒████                                            \n\
           ██████▒▒░░░░░░░░██████                                                \n\
                 ██████████                                                       \n"
+	
+	@afplay includes/pickle.mp3
 
 
 parrot:
@@ -222,4 +228,34 @@ sega:
 		@afplay includes/sega.mp3
 
 
-animations:	loading fclean rick katchow git sega
+windows:
+		@printf "  $(WO)                                                                         \n\
+                $(WO)                   .:~7?JJJJ?7~^.                                                   \n\
+                $(WO)               :7JPGBBBBGGPP55YYJJ7~:                                               \n\
+                $(WO)              .5PGGBBBBGGPP55YYJJJ??77                                              \n\
+                $(WO)              ?PPGGBBBBGGP55YYJJJ??77^ $(WG) ~7^.                    .                   \n\
+                $(WO)             :PPGGBBBBGGPP5YYYJJ??77!  $(WG).Y7?J?7~^..     ...:^!7JJ!                   \n\
+                $(WO)             YPPGBBBBGGPP55YYJJJ??77.  $(WG)??7??JY55555555PPPPPP55Y?.                   \n\
+                $(WO)            !PPGGBBBBGGP55YYJJJ??77^  $(WG)^Y7??JJYY555PPPPPPP555YYJ^                    \n\
+                $(WO)           .PPGGBBBBGGPP55YYJJ??77!   $(WG)Y77?JJYY5555PPPPPPP555YY!                     \n\
+                $(WO)           JPPGGBBBBGPP55YYJJJ??77:  $(WG)7?7??JYY55555PPPPPP555YY?.                     \n\
+                $(WO)          ~PPGBBBBGGPPP555YJJ??77~  $(WG):Y7??JJYY5555PPPPPPP55YYJ~                      \n\
+                $(WO)         .55J7~:..      ..^!?J?77.  $(WG)J?7?JJYY5555PPPPPPP555YY7                       \n\
+                $(WB)              .:^~~~~^::.   $(WO)  .~:  $(WG)!J7??JYYY5555PPPPPP555YYJ:                       \n\
+                $(WB)         :^!JPB#BGP5YJ?77!~^:.     $(WG)????JJYY5555PPPPPPP555YY!                        \n\
+                $(WB)        !??J5GBBGP5Y??77!!~~~^^    $(WG) .:!?YY55PPPPPGGGPP5Y?7^                         \n\
+                $(WB)       :7??YGBBGGPYJ?77!!~~^^^: $(WY) ^Y!:   $(WG) .:^~!!7!!~^:..                             \n\
+                $(WB)       77?JPBBBGP5J??77!!~~^^^  $(WY).P5PPP5?~:..    ...:^!J5GY                          \n\
+                $(WB)      ~7?J5GBBGP5Y??77!!~~^^^.  $(WY)JP5PPGBB########&&#&####B^                          \n\
+                $(WB)     .77?YPBBBGP5J?77!!!~~^^:  $(WY)^P55PGGBB######&&&######B?                           \n\
+                $(WB)     !7?J5GBBGP5Y??77!!~~^^^   $(WY)555PPGBB######&&&&######P.                           \n\
+                $(WB)    ^7?JYGBBGGPY??77!!~~^^^.  $(WY)7P55PGGBB######&&&######B~                            \n\
+                $(WB)   .7?JYGBBBGP5YJ??7!!~~^^:  $(WY).P55PPGBB######&&&#######Y                             \n\
+                $(WB)   !77!~^:..    ...:^~~~^^   $(WY)Y55PPGBB######&&&&######G:                             \n\
+                $(WB)   .                   .:.  $(WY)~P55PGGBB######&&&######B7                              \n\
+                                           $(WY) YPPPGGBB######&&&&######5                               \n\
+                                            $(WY) .^?5GB######&&&&###BPY7:                               \n\
+                                                $(WY)  .^!?JYYYYJ7!^:.      \n"
+
+
+animations:	rick katchow git sega
