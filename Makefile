@@ -79,7 +79,7 @@ loading:
 		@sleep 0.8
 
 
-fclean:
+clean:
 		@printf "\033[1;91m       REMOVING ALL .o FILES\r"
 		@sleep 0.5
 		@printf "       REMOVING ALL .o FILES .\r"
@@ -191,7 +191,7 @@ katchow:
 
 git:
 		@printf "\n"
-		@printf "					   $(RESET) @BunyMan									 \n"
+		@printf "					   $(RESET)									 \n"
 		@printf "							       $(O)~777??77777777??77???777777777777777777??777?7\  $(RESET)    \n"
 		@printf "			      :~!77!~^.      .~~~             $(O).??77!77777777777777777777777777777777777777777?~   $(RESET)   \n"
 		@printf "			   ^YB&@@@&@@@@P!    7@@@^  !5G.      $(O).77?~    ?7777777777777777777777!.  .7777777777?!   $(RESET)   \n"
@@ -260,4 +260,4 @@ windows:
 		@afplay includes/windows.mp3
 
 
-animations:	rick katchow git sega
+animations:	rick katchow git sega windows
