@@ -6,7 +6,7 @@
 #    By: jbuny-fe <jbuny-fe@student.42lisboa.com>   +#+  +:+       +#+         #
 #                                                 +#+#+#+#+#+   +#+            #
 #    Created: 2022/04/06 14:45:44 by jbuny-fe          #+#    #+#              #
-#    Updated: 2022/04/09 15:38:48 by jbuny-fe         ###   ########.fr        #
+#    Updated: 2022/04/10 09:42:46 by jbuny-fe         ###   ########.fr        #
 #                                                                              #
 # **************************************************************************** #
 
@@ -314,4 +314,4 @@ mc:
 		@printf "         ......::                                                  ......:. $(RESET)\n"
 		@afplay includes/mc.mp3
 
-animations:	rick katchow git sega windows ea
+animations:	rick katchow git sega windows ea mc
