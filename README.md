@@ -22,3 +22,5 @@ Current Makefile includes:
 	windows (Old logo and sound)
 
 	ea sports ("E A SPORTS IT'S IN THE GAME")
+
+	McDonald's (Plays the og whistle sound)
