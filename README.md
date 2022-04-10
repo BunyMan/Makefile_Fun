@@ -5,22 +5,20 @@ Have fun ;)
 
 Current Makefile includes:
 
-	Loading bar animation;
+	loading - Loading bar animation;
 
-	Cleaning animation;
+	clean - Cleaning animation;
 
-	Parrot.live;
+	rick - Pickle Rick;
 
-	Pickle Rick;
+	katchow - Lightning McQueen (says KACHOW ⚡️);
 
-	Lightning McQueen (says KACHOW ⚡️);
+	git - GitHub (plays a sound most of us are familiar with);
 
-	GitHub (plays a sound most of us are familiar with);
+	sega - SEGA (Plays the sega intro sound);
 
-	SEGA (Plays the sega intro sound);
+	windows - Windows (Old logo and sound)
 
-	windows (Old logo and sound)
+	ea - EA sports ("E A SPORTS IT'S IN THE GAME")
 
-	ea sports ("E A SPORTS IT'S IN THE GAME")
-
-	McDonald's (Plays the og whistle sound)
+	mc - McDonald's (Plays the og whistle sound)
