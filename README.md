@@ -22,3 +22,5 @@ Current Makefile includes:
 	ea - EA sports ("E A SPORTS IT'S IN THE GAME")
 
 	mc - McDonald's (Plays the og whistle sound)
+
+	mario - Old 8 bit Mario (It's me! Mario!)
